@@ -185,7 +185,7 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'bshopping-basket',
+			icon: 'shopping-basket',
 			id: '1',
 			links: [
 				{

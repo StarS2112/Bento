@@ -320,6 +320,7 @@ body {
   font-weight: bold;
   text-align: center;
   width: 80%;
+  letter-spacing: 2px;
 }
 .listItem:hover {
   background-color: var(--accent);
