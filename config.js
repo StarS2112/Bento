@@ -185,24 +185,24 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'bshopping-basket',
 			id: '1',
 			links: [
 				{
-					name: 'Spotify',
-					link: 'https://www.spotify.com',
+					name: 'Shopee MYS',
+					link: 'https://shopee.com.my/',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
+					name: 'Shopee IDN',
+					link: 'https://shopee.co.id/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
+					name: 'lazada',
+					link: 'https://www.lazada.com.my/',
 				},
 				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'AliExpress',
+					link: 'https://best.aliexpress.com/',
 				},
 			],
 		},
