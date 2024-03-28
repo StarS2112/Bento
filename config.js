@@ -219,8 +219,8 @@ const CONFIG = {
 					link: 'https://xdaforums.com/',
 				},
 				{
-					name: 'Stack Overflow',
-					link: 'https://stackoverflow.com/',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/#inbox',
 				},
 				{
 					name: 'Repos',
